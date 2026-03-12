@@ -10,3 +10,10 @@ token2
 token3
 ```
 ## Dependencies
+run `setup.bat`
+run `index.py`
+enjoy!
+
+## Disclaimer
+
+> TokenChecker was designed for educational purposes only. I am not responsible for the use of this software.
