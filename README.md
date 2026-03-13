@@ -15,8 +15,11 @@ token2
 token3
 ```
 ## Dependencies
+
 run `setup.bat`
+
 run `index.py`
+
 enjoy!
 
 ## Disclaimer
