@@ -2,6 +2,7 @@
 A simple python discord token checker
 ## What is TokenChecker?
 TokenChecker is a python tool that check if a token is valid or dead.
+https://i.ibb.co/DDdg4ZkZ/Capture-d-cran-2026-03-13-010037.png
 ## How to put Tokens ?
 in the `tokens.txt` file, you can put tokens in this format :
 ```
